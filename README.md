@@ -1,4 +1,2 @@
 # search-engine
-a basic search engine project
-It simulates google by introducing three documents. 
-and by 
+a basic search engine project that simulates Google Search
